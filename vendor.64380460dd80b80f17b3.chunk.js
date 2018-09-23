@@ -1,4 +1,4 @@
-/*! bee-mobile v0.4.3 */
+/*! bee-mobile v0.4.4 */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(e,t,n){"use strict";e.exports=n(464)},function(e,t,n){var r;
 /*!
   Copyright (c) 2016 Jed Watson.
